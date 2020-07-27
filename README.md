@@ -1,4 +1,7 @@
 # DPLL_SAT_SOLVER
+
+[![Build Status](https://travis-ci.com/Adiactive/DPLL_SAT_SOLVER.svg?branch=master)](https://travis-ci.com/Adiactive/DPLL_SAT_SOLVER)
+
 A simple SAT solver based on [DPLL algorithm](https://en.wikipedia.org/wiki/DPLL_algorithm)
 
 ## Build
