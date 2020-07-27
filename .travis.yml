@@ -1,0 +1,10 @@
+language: cpp
+
+install: make cmake
+
+compiler:
+  - gcc
+  
+script:
+  - cmake ./
+  - make
